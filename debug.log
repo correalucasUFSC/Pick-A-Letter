@@ -1,0 +1,4 @@
+[0619/201501.392:ERROR:file_io.cc(30)] read: expected 36, observed 0
+[0621/082923.285:ERROR:process_reader_win.cc(142)] SuspendThread: Acesso negado. (0x5)
+[0621/082923.301:ERROR:exception_snapshot_win.cc(87)] thread ID 300 not found in process
+[0621/082923.301:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
